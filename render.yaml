@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google-unblocked-yuki-1
+    name: google-nonunblock-yuki-1
     env: python
     region: Oregon
     plan: free
